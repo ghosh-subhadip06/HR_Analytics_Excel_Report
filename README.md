@@ -5,7 +5,12 @@ The HR Analytics project involves analyzing employee-related data to gain insigh
 This project aims to identify the reasons behind the high employee attrition rate of approximately 50%. Using data visualization tools such as Power BI and Tableau, the analysis highlights the key factors contributing to attrition across different departments and genders, helping organization understand and address the root causes effectively. 
 
 # Features:<br>
-
+⚪ Average Attrition rate for all departments, gender and employees with different educational background.<br>
+⚪ Average Hourly rate of employees from different departments, different educational background and gender. <br>
+⚪ Attrition rate vs monthly income stats. <br>
+⚪ Attrition rate vs average working years for each Department. <br>
+⚪ Job Role Vs Work life balance. <br>
+⚪ Attrition rate Vs Year since last promotion relation. <br>
 
 
 # HR_Analytics_Excel_Report:
