@@ -10,6 +10,10 @@
 <img width="1859" height="743" alt="Tableau_page2" src="https://github.com/user-attachments/assets/138255a8-97a1-4776-9b37-488d2acd47c5" />
 <img width="1857" height="730" alt="Tableau_page3" src="https://github.com/user-attachments/assets/dbe05104-7286-471d-a6c3-d34fac1e9e85" />
 
+# HR_Analytics_Tableau_Report:
+<img width="610" height="827" alt="SQL" src="https://github.com/user-attachments/assets/290f957c-6570-45f2-8ccb-f2b12203b710" />
+
+
 
 
 
