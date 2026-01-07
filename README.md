@@ -28,6 +28,7 @@ This project focuses on employee retention by analyzing the key reasons behind a
 <img width="1857" height="730" alt="Tableau_page3" src="https://github.com/user-attachments/assets/dbe05104-7286-471d-a6c3-d34fac1e9e85" />
 
 # Screenshot of HR Analytics SQL Quaries and Results:
+<img width="622" height="784" alt="SQL" src="https://github.com/user-attachments/assets/6f685176-e4cf-4fb1-a5c0-714edc36b38f" />
 
 
 
